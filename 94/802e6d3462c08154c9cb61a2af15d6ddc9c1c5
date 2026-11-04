@@ -1,0 +1,14 @@
+图片19.svg
+  h_d2833f622cce50 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "10.11.1",
+  "base_commit_sha": "94802e6d3462c08154c9cb61a2af15d6ddc9c1c5",
+  "prompts": {},
+  "humans": {
+    "h_d2833f622cce50": {
+      "author": "Your Name <you@example.com>"
+    }
+  }
+}
